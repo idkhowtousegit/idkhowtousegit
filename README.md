@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning how to use git
 - 🌱 I’m currently learning how to use git
 - 💞️ I’m looking to collaborate on nothing at the moment
-- 📫 How to reach me ... wait why do you want to reach me? 
+- 📫 How to reach me ... I'm not quite sure myself  
 
 <!---
 idkhowtousegit/idkhowtousegit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
